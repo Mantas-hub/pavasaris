@@ -1,0 +1,393 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 500px;
+    background-image: url(tullp.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+nav{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    background-image: linear-gradient(#fefefe, #e2e4e0);
+    border-radius: 7px;
+    border-top: 5px solid #00FF00;
+}
+ul {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    border-radius: 7px;  
+}
+li{
+    width: 130px;
+    height: 49px;
+    display: inline-block;
+    position:relative;
+    top: -5px;
+    border-radius:7px;
+}
+li:hover{
+   background-image: linear-gradient(#00FF00, green); 
+}
+a{
+    display: block;
+    width: 120px;
+    height:49px; 
+    text-decoration: none;
+    padding-top: 20px;
+    color:green;
+    border-radius:7px;
+}
+a:hover{
+    color:#FFF;
+}
+.antra{
+    background-image: linear-gradient(#00FF00, green);
+
+}
+.antra a{
+    color: white;
+}
+h1{outline: 2px solid blue;
+    width:250px;
+    height: 100px;
+    margin:0 auto;
+    text-align:center;
+    font-family: 'Ranchers', cursive;
+    font-size: 50px;
+    letter-spacing: 4px;
+    margin-top:50px;
+    padding:15px;
+    background-image:  linear-gradient(#00FF00, green, aqua);
+    mix-blend-mode: screen;
+    text-shadow: 2px 2px #FFF;
+    border-radius:7px;
+}
+
+
+/*
+
+font-family: 'Ranchers', cursive;
+font-family: 'Nunito', sans-serif;
+
+*/
+.foto{
+    width: 100%;
+    height:500px;
+    background-image: radial-gradient( blue, aqua, green, yellow, lime);
+    position: relative;
+}
+.foto div{
+    width: 200px;
+    height:200px;
+    border:2px #FFF;
+    border-radius:100%; 
+    color:#FFF;
+    margin:20px;
+    text-align: center;
+}
+.foto1{
+    background-image: url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:0;
+}
+.foto2{
+    background-image: url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:20%;
+}
+.foto3{
+    background-image: url(3.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:40%;
+}
+.foto4{
+    background-image: url(4.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:60%;
+}
+
+.foto5{
+    background-image: url(crocus2.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:80%;
+}
+.foto6{
+    background-image: url(blue.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+.foto7{
+    background-image: url(lapai.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    bottom:0;
+    left:20%;
+}
+.foto8{
+    background-image: url(cherry.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    bottom:0;
+    left:40%;
+}
+.foto9{
+    background-image: url(leaf.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    bottom:0;
+    left:60%;
+}
+.foto10{
+    background-image: url(tullp.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    bottom:0;
+    left:80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
